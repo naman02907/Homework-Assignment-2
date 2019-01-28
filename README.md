@@ -1,5 +1,3 @@
-# Homework-Assignment-2
-
 # Node JS - Pizza Cart Project
 This is my master class - Nodejs Rest Service
 
